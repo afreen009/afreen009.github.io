@@ -294,7 +294,9 @@ h5,
 h6,
 .h6 {
   font-weight: var(--s-bold); }
-
+  .github-logo {
+    padding-bottom: 40px;
+  }
 p {
   font-size: var(--font-size-b2);
   line-height: var(--line-height-b2);
