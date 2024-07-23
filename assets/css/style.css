@@ -296,7 +296,7 @@ h6,
   font-weight: var(--s-bold); }
 .github-logo {
     padding-bottom: 40px;
-  }
+}
 p {
   font-size: var(--font-size-b2);
   line-height: var(--line-height-b2);
@@ -9275,6 +9275,7 @@ figcaption {
           stroke-width: 2;
           position: relative;
           z-index: 2;
+          height: fit-content;
           width: 20px; }
         .slide .social-share-inner-left .social-share li a:hover {
           transform: translateY(-3px); }
